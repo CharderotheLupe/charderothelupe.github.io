@@ -1,8 +1,8 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://raw.githubusercontent.com/CharderotheLupe/charderothelupe.github.io/refs/heads/main/AFP.json",
-  "title": "Dynamic Armor Variants",
-  "description": "Provides definitions for Dynamic Armor Variants",
+  "title": "AFP Tails",
+  "description": "Provides definitions for AFP Tails",
   "type": "object",
   "properties": {
     "variants": {
