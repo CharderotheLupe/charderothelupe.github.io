@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/Exit-9B/DynamicArmorVariants/main/docs/DynamicArmorVariants.schema.json",
+  "$id": "https://raw.githubusercontent.com/CharderotheLupe/charderothelupe.github.io/refs/heads/main/AFP.json",
   "title": "Dynamic Armor Variants",
   "description": "Provides definitions for Dynamic Armor Variants",
   "type": "object",
